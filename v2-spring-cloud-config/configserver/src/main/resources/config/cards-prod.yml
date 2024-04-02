@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs "
+  contactDetails:
+    name: "Zack - Product Owner"
+    email: "zack@eazybank.com"
+  onCallSupport:
+    - (453) 392-3455
+    - (236) 203-2345
